@@ -27,3 +27,13 @@ the contents of the map. The map was hand-made first on graph paper, then manual
 The character would move by the user entering in single key directions. Occasionally, there
 would be a random battle being spawned. In total, the project took over a week and maybe 30-40
 hours of programming.
+
+
+For cs162, the final project called for an adventure game, with keyed in items that the user
+was supposed to type in pointed questions and eventually collect enough items to step through
+and beat the game. I was more intent on evolving my cs161 assignment. I used to basic idea of
+pointers and linked lists to create my cs161 project, but on a multi-level system. I used .txt
+files to store individual levels, which would then be loaded into 2d arrays of linked lists. 
+The arrays would then be pointed to and the user would change maps, allowing a more true 
+dungeon crawler experience. However, this was not the required assignment, and I lost 100% of 
+the points for that section, resulting in a lower grade than I would have preferred.
