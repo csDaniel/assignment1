@@ -12,9 +12,10 @@ know it sounds to strange to have baking as a hobby, but I find it rewarding.
 Interests:
 Usually on the weekends I'll be out exploring the city with friends, or hiking. Hiking can 
 be very difficult, but when you're up on the mountain, it's the views that make it worth it.
+My other interests involve learning foreign languages and trying new restaurants.
 
 Pets:
 I have no pets save for some house plants. But, I don't think they count as pets for most 
-people.
+people. 
 
 Programming Background:
