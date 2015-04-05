@@ -3,6 +3,12 @@ CS290 Biography
 Name: 
 Daniel OFarrell
 
+Locations:
+Seoul, South Korea
+
+Undergrad:
+I studied Political Science at Eastern Illinois University
+
 Hobbies: 
 I enjoy baking as a hobby. I realized back in university that it was a relaxing hobby that 
 would just engross me deeply. When I was making bread, I realized that nothing else really
