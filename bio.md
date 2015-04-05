@@ -18,3 +18,6 @@ I have no pets save for some house plants. But, I don't think they count as pets
 people.
 
 Programming Background:
+Prior to OSU, most of my experience had been with simple things, such as writing macros. In
+high school, I studied visualBASIC. Thanks to OSU, I can now say I have experience working
+with C and C++. 
