@@ -21,3 +21,9 @@ Programming Background:
 Prior to OSU, most of my experience had been with simple things, such as writing macros. In
 high school, I studied visualBASIC. Thanks to OSU, I can now say I have experience working
 with C and C++. 
+
+In cs161, for my final project, I opted to make a dungeon crawler. It used a 2d array to draw
+the contents of the map. The map was hand-made first on graph paper, then manually keyed in.
+The character would move by the user entering in single key directions. Occasionally, there
+would be a random battle being spawned. In total, the project took over a week and maybe 30-40
+hours of programming.
